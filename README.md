@@ -9,10 +9,11 @@
     
 * deep learning & machine learning
   * basic
-    |도서|코드|velog|
+    |도서 및 강의|코드|velog|
     |---|---|---|
     |Hands on Machine Learning|test|none|
     |[PyTorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788)|test|none|
+    |[파이썬 기초 라이브러리부터 쌓아가는 머신러닝](https://inf.run/N1zx)|test|none|
   * NLP 
     |도서|코드|velog|
     |---|---|---|
