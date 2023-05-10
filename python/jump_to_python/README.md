@@ -1,1 +1,4 @@
-#study for jump to pythom
+# study for jump to pythom
+
+* class
+* module
