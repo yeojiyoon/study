@@ -12,7 +12,7 @@
     |도서|코드|velog|
     |---|---|---|
     |Hands on Machine Learning|test|none|
-    |[PyTorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788)|
+    |[PyTorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788)|test|none|
   * NLP 
     |도서|코드|velog|
     |---|---|---|
