@@ -10,6 +10,8 @@
     |[파이썬으로 풀어보는 프로젝트 오일러](https://wikidocs.net/book/9015)|test|none|
   * java
   * C
+    |도서 및 강의|코드|velog|
+    |---|---|---|
     |[자료구조와 알고리즘 C언어](https://wikidocs.net/book/8033)|test|none|
   * c++
     
