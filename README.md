@@ -9,6 +9,9 @@
     |[좌충우돌, 파이썬으로 자료구조 구현하기](https://wikidocs.net/book/9059)|test|none|
     |[파이썬으로 풀어보는 프로젝트 오일러](https://wikidocs.net/book/9015)|test|none|
   * java
+    |도서 및 강의|코드|velog|
+    |---|---|---|
+    |[Do it! 알고리즘 코딩테스트 with JAVA](https://inf.run/wwYP)|test|none|
   * C
     |도서 및 강의|코드|velog|
     |---|---|---|
