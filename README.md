@@ -6,7 +6,7 @@
     |---|---|---|
     |[점프 투 파이썬](https://wikidocs.net/book/1)|[code](https://github.com/yeojiyoon/study/tree/main/python/jump_to_python)|none|
     |[파이썬으로 배우는 알고리즘 트레이딩](https://wikidocs.net/book/110)|test|none|
-    |[좌충우돌, 파이썬으로 자료구조 구현하기](https://wikidocs.net/book/9059)|test|none|
+    |[좌충우돌, 파이썬으로 자료구조 구현하기](https://wikidocs.net/book/9059)|[code](https://github.com/yeojiyoon/study/tree/main/python/data_structure)|none|
     |[파이썬으로 풀어보는 프로젝트 오일러](https://wikidocs.net/book/9015)|test|none|
   * java
     |도서 및 강의|코드|velog|
