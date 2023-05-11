@@ -47,3 +47,8 @@
     |도서|코드|velog|
     |---|---|---|
     |[입문자를 위한 CSS3](https://wikidocs.net/book/9136)|test|none|
+
+* Network
+  |강의 및 도서|코드|velog|
+  |---|---|---|
+  |경북대학교 정창수 교수님 컴퓨터망 강의|none|[velog](https://velog.io/@yeojiyoon/series/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%A7%9D)|
