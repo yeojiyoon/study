@@ -17,6 +17,10 @@
     |---|---|---|
     |[자료구조와 알고리즘 C언어](https://wikidocs.net/book/8033)|test|none|
   * c++
+  * C#
+    |도서 및 강의|코드|velog|
+    |---|---|---|
+    |Do it! C# 프로그래밍 입문|test|none|
     
 * deep learning & machine learning
   * basic
