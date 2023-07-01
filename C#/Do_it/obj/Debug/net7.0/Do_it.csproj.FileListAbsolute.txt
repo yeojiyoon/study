@@ -1,0 +1,15 @@
+D:\gitClone\study\C#\Do_it\bin\Debug\net7.0\Do_it.exe
+D:\gitClone\study\C#\Do_it\bin\Debug\net7.0\Do_it.deps.json
+D:\gitClone\study\C#\Do_it\bin\Debug\net7.0\Do_it.runtimeconfig.json
+D:\gitClone\study\C#\Do_it\bin\Debug\net7.0\Do_it.dll
+D:\gitClone\study\C#\Do_it\bin\Debug\net7.0\Do_it.pdb
+D:\gitClone\study\C#\Do_it\obj\Debug\net7.0\Do_it.csproj.AssemblyReference.cache
+D:\gitClone\study\C#\Do_it\obj\Debug\net7.0\Do_it.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitClone\study\C#\Do_it\obj\Debug\net7.0\Do_it.AssemblyInfoInputs.cache
+D:\gitClone\study\C#\Do_it\obj\Debug\net7.0\Do_it.AssemblyInfo.cs
+D:\gitClone\study\C#\Do_it\obj\Debug\net7.0\Do_it.csproj.CoreCompileInputs.cache
+D:\gitClone\study\C#\Do_it\obj\Debug\net7.0\Do_it.dll
+D:\gitClone\study\C#\Do_it\obj\Debug\net7.0\refint\Do_it.dll
+D:\gitClone\study\C#\Do_it\obj\Debug\net7.0\Do_it.pdb
+D:\gitClone\study\C#\Do_it\obj\Debug\net7.0\Do_it.genruntimeconfig.cache
+D:\gitClone\study\C#\Do_it\obj\Debug\net7.0\ref\Do_it.dll
