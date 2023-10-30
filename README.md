@@ -52,6 +52,10 @@
     |도서|코드|velog|
     |---|---|---|
     |[입문자를 위한 CSS3](https://wikidocs.net/book/9136)|test|none|
+ * 겁나 빠른 웹 레시피: 2023.10.30~
+    |영상|코드|velog|
+    |---|---|---|
+    |[겁나 빠른 웹 레시피](https://www.youtube.com/watch?v=5ui9JmfdiUc&list=PLuHgQVnccGMBttjsCipjhWgf6urfjTn14&index=1)|test|none|
 
 * Network
   |강의 및 도서|코드|velog|
