@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .tree, .tree ul{
+                list-style: none;
+                padding-left:20px;
+            }
+            .tree input[type="checkbox"]{
+                display:none;
+            }
+            .tree input[type="checkbox"]:checked~ul{
+                display:none;
+            }
+        </style>
+    </head>
+    <body>
+        <ul class="tree">
+            <li>
+                <input type="checkbox" id="root">
+                <label for="root">ROOT</label>
+                <ul>
+                    <li><a href="https://www.naver.com">node1</a></li>
+                    <li>node2</li>
+                    <li>
+                        <input type="checkbox" id="child">
+                        <label for="child">child</label>
+                        <ul>
+                            <li>node1</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </body>
+</html>
