@@ -41,10 +41,12 @@ function modifyNumber(time){
 }
 
 window.onload = function(){
-    let interval1 = setInterval(setClock, 1000);
-    let interval2 = setInterval(setClock2, 1000);
+    let interval1;
+    let interval2;
 
     setClock();
+    interval1 = setInterval(setClock, 1000);
+
 
     document.getElementById("btn1").onclick = function(){
         clearInterval(interval1);
