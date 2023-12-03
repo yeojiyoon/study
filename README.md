@@ -61,3 +61,12 @@
   |강의 및 도서|코드|velog|
   |---|---|---|
   |경북대학교 정창수 교수님 컴퓨터망 강의|none|[velog](https://velog.io/@yeojiyoon/series/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%A7%9D)|
+
+---
+
+## JS
+
+* Project
+  |프로젝트명|저장소|
+  |---|---|
+  |시계 만들기|[-](https://github.com/yeojiyoon/study/tree/main/JavaScript/Clock_project)|
