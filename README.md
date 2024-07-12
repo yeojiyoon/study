@@ -1,5 +1,5 @@
 # study
-🐜1일 1 커밋을 목표로 공부하는 이야기
+🐜1일 1 커밋을 목표로 공부하다
 * programming language
   * python
     |도서|코드|velog|
